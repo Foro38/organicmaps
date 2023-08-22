@@ -5796,7 +5796,7 @@
     tags = android
     en = Menu
     af = Kieslys
-    ar = القائمة
+    ar = قائمة
     ca = Menú
     es = Menú
     eu = Menua
@@ -11815,7 +11815,7 @@
     tags = ios
     en = Opens tomorrow at %@
     af = Open môre om %@
-    ar = يفتح غذا في %@
+    ar = يفتح غدا في %@
     be = Адкрыецца заўтра ў %@
     ca = Obre demà a les %@
     de = Öffnet morgen um %@
@@ -11905,7 +11905,7 @@
     tags = ios
     en = Closes at %@
     af = Sluit om %@
-    ar = يغلق في %@
+    ar = يغليق في
     be = Закрываецца ў %@
     ca = Tanca a les %@
     de = Schließt um %@
@@ -26434,7 +26434,7 @@
     tags = android
     en = Disconnect USB cable
     af = Ontkoppel USB-kabel
-    ar = افص سلك USB
+    ar = إفصل سلك USB
     be = Адлучыце USB кабель
     bg = Изключване на USB кабел
     ca = Desconnecteu el cable USB
