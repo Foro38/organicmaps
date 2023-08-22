@@ -5796,7 +5796,7 @@
     tags = android
     en = Menu
     af = Kieslys
-    ar = قائمة
+    ar = القائمة
     ca = Menú
     es = Menú
     eu = Menua
@@ -11905,7 +11905,7 @@
     tags = ios
     en = Closes at %@
     af = Sluit om %@
-    ar = يغليق في
+    ar = يغلق في
     be = Закрываецца ў %@
     ca = Tanca a les %@
     de = Schließt um %@
